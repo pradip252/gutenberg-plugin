@@ -13,7 +13,7 @@ Discover more about the project <a href="https://wordpress.org/gutenberg">here</
 
 Gutenberg is more than an editor. While the editor is the focus right now, the project will ultimately impact the entire publishing experience including customization (the next focus area).
 
-## Editing focus
+## Editing focus style
 
 > The editor will create a new page- and post-building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery. — Matt Mullenweg
 
